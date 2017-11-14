@@ -1,4 +1,5 @@
 List the main objectives of the proposed research in order of priority
+
 Over the 24-month period of funding, our main objectives are:
 1. Train Thai graduate students in the handling of very large datasets, and in particular database management and machine learning-based automated, via a series of research projects. On completion of these projects, the students will possess a range of high-level skills that will be readily transferrable to sectors that are well-positioned to help Thailand transition from a middle to upper-income economy.
 
